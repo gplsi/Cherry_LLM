@@ -164,3 +164,8 @@ other_data*
 trained_models*
 workspace
 cherry_selection_direct_mod
+
+.vscode/
+.claude/
+
+Slurm/
